@@ -10,6 +10,8 @@ npm install <package-name>
 
 ## Usage
 
+Take a look at the `docs` and `src` folders.
+
 ## Build
 
 Install the dependencies:
